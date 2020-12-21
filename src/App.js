@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Rohan React App with Go API</h1>
+      <h1>Rohan new React App with Go API</h1>
       <h2>
         Deployed with{' '}
         <a
